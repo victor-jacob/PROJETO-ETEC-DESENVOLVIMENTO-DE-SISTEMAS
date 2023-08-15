@@ -1,0 +1,10 @@
+fun main() {
+	var valorReal : Double = 50.00;
+	var valorDolar : Double = valorReal * 4.96;
+    var valorEuro : Double = valorReal * 5.42;
+	var valorWow : Double = valorReal * 0.0037;
+ 	var valorIene : Double = valorReal * 0.034;
+    var valorYuan : Double = valorReal * 0.68;
+    println("O valor de " + valorReal + " Dolares são equivalentes a R$" + valorDolar +", em Euro, equivale a R$" + valorEuro);
+    println("Em Wow, São R$" + valorWow + ",Em Iene equivale a R$" + valorIene + " e em Yuan é R$" +valorYuan + ".");
+}

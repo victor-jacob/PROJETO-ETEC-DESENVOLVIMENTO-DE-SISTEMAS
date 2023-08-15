@@ -1,0 +1,8 @@
+fun main() {
+	var primeiraNota  Double = 7.00;
+	var segundaNota  Double = 6.00;
+ 	var terceiraNota  Double = 7.00;
+	var quartaNota  Double = 6.00;
+	var mediaTotal  Double = (primeiraNota + segundaNota + terceiraNota + quartaNota)  4;
+    println(A média total dos 4 Bismestres do aluno foi de  + mediaTotal);
+}

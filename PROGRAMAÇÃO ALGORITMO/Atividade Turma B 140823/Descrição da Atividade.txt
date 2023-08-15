@@ -1,0 +1,12 @@
+1-Desenvolva um algoritmo onde são informados os valores das notas dos 4 bimestre de um determinado aluno. Calcule para este aluno sua média geral
+
+2-faça um algoritmo que receba um número inteiro e retorne sua antecessor e o seu sucessor.
+
+3. crie um algoritmo que receba um numero real (double) e retorne seu dobro e sua terça parte.
+
+4- crie um algoritmo que calcule o 30% de qualquer valor informado.
+
+5- crie um algoritmo para que ao informar um valor em Real converta para (Dolar, Euro,e Won, Iene e Yuan)
+
+e-mail: acferrei2015@gmail.com	
+Assunto:(Meu nome) Atividade turma B 14/08/23

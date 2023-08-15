@@ -1,0 +1,5 @@
+fun main() {
+	var numeroDesejado  Int = 200;
+	var numeroDesconto  Double = numeroDesejado  0.3;
+    println(30% de  + numeroDesejado +  é  + numeroDesconto);
+}

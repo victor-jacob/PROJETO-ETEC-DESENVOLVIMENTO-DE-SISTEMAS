@@ -1,0 +1,6 @@
+fun main() {
+	var numeroDesejado : Int = 5;
+	var numeroAntecessor : Int = numeroDesejado - 1;
+ 	var numeroSucessor : Int = numeroDesejado + 1;
+    println("O número Antecessor de " + numeroDesejado + " é " + numeroAntecessor + " e o número Sucessor é " + numeroSucessor + ".");
+}

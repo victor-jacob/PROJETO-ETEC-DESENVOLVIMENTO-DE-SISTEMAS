@@ -1,0 +1,6 @@
+fun main() {
+	var numeroDesejado : Double = 5.5;
+	var numeroDobro : Double = numeroDesejado + numeroDesejado ;
+ 	var numeroTerca : Double = numeroDesejado / 3;
+    println("O dobro de " + numeroDesejado + " é " + numeroDobro + " e a Terça Parte é aproximadamente " + numeroTerca + ".");
+}
